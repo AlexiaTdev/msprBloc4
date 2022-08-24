@@ -1,3 +1,4 @@
 Temp/
-Library/
+Library/PackageCache/
+Library/PlayerDataCache/
 Packages/com.ptc.vuforia.engine-10.9.3.tgz
